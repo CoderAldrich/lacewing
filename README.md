@@ -1,11 +1,11 @@
 
-[**liblacewing is no longer maintained.**](http://lacewing-project.org)  The final version is [0.5.4](http://lacewing-project.org/release/0.5.4.html).
+[**liblacewing is no longer maintained.**](http://udp.github.io/lacewing)  The final version is [0.5.4](http://udp.github.io/lacewing/release/0.5.4.html).
 
 <hr>
 
 liblacewing is a library for writing cross-platform, networked applications in C/C++.
 
-http://lacewing-project.org/
+http://udp.github.io/lacewing
 
 http://github.com/udp/lacewing/
 
@@ -23,7 +23,7 @@ For build instructions, see [Running CMake](http://www.cmake.org/runningcmake/).
 Documentation
 =============
 
-The API documentation for liblacewing can be found [here](http://lacewing-project.org/docs).
+The API documentation for liblacewing can be found [here](http://udp.github.io/lcewing/docs).
 
 Issues with the documentation can be reported in the [gh-pages branch](https://github.com/udp/lacewing/tree/gh-pages)
 of the liblacewing GitHub repository.
@@ -40,7 +40,7 @@ Changes in 0.5.4 (2013-Oct-31)
 
 - Fix issue with the webserver accessing freed pointers when writing response headers
 
-[0.5.4 Release Notes](http://lacewing-project.org/release/0.5.4.html)
+[0.5.4 Release Notes](http://udp.github.io/lacewing/release/0.5.4.html)
 
 
 
@@ -57,7 +57,7 @@ Changes in 0.5.3 (2013-Aug-02)
 
 - The makefile now produces an unversioned dynamic library, while still installing with the version suffix
 
-[0.5.3 Release Notes](http://lacewing-project.org/release/0.5.3.html)
+[0.5.3 Release Notes](http://udp.github.io/lacewing/release/0.5.3.html)
 
 
 Changes in 0.5.2 (2013-Jun-05)
@@ -87,7 +87,7 @@ Changes in 0.5.2 (2013-Jun-05)
 
 - Webserver: Issue with `on_upload_post` hook being fired multiple times fixed
 
-[0.5.2 Release Notes](http://lacewing-project.org/release/0.5.2.html)
+[0.5.2 Release Notes](http://udp.github.io/lacewing/release/0.5.2.html)
 
 
 Changes in 0.5.1 (2013-Mar-22)
@@ -113,7 +113,7 @@ Changes in 0.5.1 (2013-Mar-22)
 
 - Fix some problems building on 64-bit Windows
 
-[0.5.1 Release Notes](http://lacewing-project.org/release/0.5.1.html)
+[0.5.1 Release Notes](http://udp.github.io/lacewing/release/0.5.1.html)
 
 
 Changes in 0.5.0 (2013-Mar-11)
@@ -139,7 +139,7 @@ Changes in 0.5.0 (2013-Mar-11)
 
 - New `ENABLE_SSL` option in Makefile
 
-[0.5.0 Release Notes](http://lacewing-project.org/release/0.5.0.html)
+[0.5.0 Release Notes](http://udp.github.io/lacewing/release/0.5.0.html)
 
 
 Changes in 0.4.3 (2012-Oct-28)
@@ -161,7 +161,7 @@ Changes in 0.4.3 (2012-Oct-28)
 
 - Updated to the latest version of [multipart-parser-c](https://github.com/iafonov/multipart-parser-c)
 
-[0.4.3 Release Notes](http://lacewing-project.org/release/0.4.3.html)
+[0.4.3 Release Notes](http://udp.github.io/lacewing/release/0.4.3.html)
 
 
 Changes in 0.4.2 (2012-Aug-23)
@@ -173,7 +173,7 @@ Changes in 0.4.2 (2012-Aug-23)
 
 - StreamGraph did not read beyond any filters present in a graph
 
-[0.4.2 Release Notes](http://lacewing-project.org/release/0.4.2.html)
+[0.4.2 Release Notes](http://udp.github.io/lacewing/release/0.4.2.html)
 
 
 Changes in 0.4.1 (2012-Aug-22)
@@ -183,7 +183,7 @@ Changes in 0.4.1 (2012-Aug-22)
 
 - Fix error with URL decoding function which lead to trailing garbage in decoded strings 
 
-[0.4.1 Release Notes](http://lacewing-project.org/release/0.4.1.html)
+[0.4.1 Release Notes](http://udp.github.io/lacewing/release/0.4.1.html)
 
 
 Changes in 0.4.0 (2012-Aug-21)
@@ -205,7 +205,7 @@ Changes in 0.4.0 (2012-Aug-21)
 
 - `File::OpenTemp` used incorrect filenames on Windows 
 
-[0.4.0 Release Notes](http://lacewing-project.org/release/0.4.0.html)
+[0.4.0 Release Notes](http://udp.github.io/lacewing/release/0.4.0.html)
 
 
 Changes in 0.3.1 (2012-Jun-29)
