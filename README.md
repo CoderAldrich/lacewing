@@ -23,7 +23,7 @@ For build instructions, see [Running CMake](http://www.cmake.org/runningcmake/).
 Documentation
 =============
 
-The API documentation for liblacewing can be found [here](http://udp.github.io/lcewing/docs).
+The API documentation for liblacewing can be found [here](http://udp.github.io/lacewing/docs/).
 
 Issues with the documentation can be reported in the [gh-pages branch](https://github.com/udp/lacewing/tree/gh-pages)
 of the liblacewing GitHub repository.
